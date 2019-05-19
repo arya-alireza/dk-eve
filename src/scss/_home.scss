@@ -1,0 +1,18 @@
+.home {
+    padding-top: 2rem;
+    .banner {
+        border-radius: 7px;
+    }
+    .slider {
+        .slick-next {
+            right: 25px;
+        }
+        .slick-prev {
+            left: 25px;
+            z-index: 100;
+        }
+        .slick-dots {
+            bottom: 5px;
+        }
+    }
+}
