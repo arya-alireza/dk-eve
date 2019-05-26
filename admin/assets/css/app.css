@@ -1,0 +1,6 @@
+@import url('bootstrap.min.css');
+@import url('fontiran.css');
+body {
+    direction: rtl;
+    text-align: right;
+}
